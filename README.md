@@ -1,4 +1,4 @@
-### Olá, Bem vindo ao meu repositório
+### Olá, Bem vindo ao meu repositório 👋
 
 <!--
 **Felipebb/Felipebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
