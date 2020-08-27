@@ -6,7 +6,7 @@ I'm Developer Jr, currently focusing on mobile apps, seeking to become fullstack
 * :iphone: Flutter Developer Jr 
 * :earth_americas: Porto Alegre, Rio Grande do Sul - Brasil
 * :construction_worker: I’m currently working on Universidade Federal de Ciências da Saúde de Porto Alegre - UFCSPA
-* :books: Undergraduate in Computer Science
+* :mortar_board: Undergraduate in Computer Science
 * :computer: Techs: Flutter, Dart, Java, Html, Css and JavaScript
 * :pencil2:  I’m currently learning more Flutter, Dart, Sql, JavaScript, React Native and Agile methodologies.
 * :hourglass: My hobby is reading and learning about new technologies related to hardware, playing games and watching football games.
