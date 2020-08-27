@@ -1,15 +1,19 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Felipebb)](https://github.com/Felipebb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bieluczyk-barrozo/)](https://www.linkedin.com/in/felipe-bieluczyk-barrozo/)
-[![Gmail Badge](https://img.shields.io/badge/-bieluczyk1998@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bieluczyk1998@gmail.com)](mailto:bieluczyk1998@gmail.com)
+<h3 align="center">Hi, Welcome to my repository <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-### Hi, Welcome to my repository 👋
+I'm Developer Jr, currently focusing on mobile apps, seeking to become fullstack. Using, whenever possible, agile methods in the development of applications and principles of UX design to facilitate user interaction.
 
 * :computer: Developer - Flutter Developer Jr 
 * :airplane: Rio Grande do Sul - Brasil
 * :construction_worker: I’m currently working on Universidade Federal de Ciências da Saúde de Porto Alegre - UFCSPA
-* :books: Graduating in Computer Science
-* 💻 Techs: Flutter, Dart, Java, Html, Css and JavaScript
+* :books: Undergraduate in Computer Science
+* :computer: Techs: Flutter, Dart, Java, Html, Css and JavaScript
 * :pencil2:  I’m currently learning more Flutter, Dart, Sql, JavaScript, React Native and Agile methodologies.
+
+#### Where to find me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Felipebb)](https://github.com/Felipebb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bieluczyk-barrozo/)](https://www.linkedin.com/in/felipe-bieluczyk-barrozo/)
+[![Gmail Badge](https://img.shields.io/badge/-bieluczyk1998@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bieluczyk1998@gmail.com)](mailto:bieluczyk1998@gmail.com)
 
 Thank you for visit and don't forget to add me on LinkedIn.
 
