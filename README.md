@@ -1,6 +1,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Felipebb)](https://github.com/Felipebb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bieluczyk-barrozo/)](https://www.linkedin.com/in/felipe-bieluczyk-barrozo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bieluczyk1998@gmail.com)](mailto:bieluczyk1998@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bieluczyk1998@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bieluczyk1998@gmail.com)](mailto:bieluczyk1998@gmail.com)
 
 ## Olá, Bem vindo ao meu repositório 👋
 
